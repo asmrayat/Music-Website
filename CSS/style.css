@@ -9,6 +9,9 @@ body{
     padding-bottom: 140px;
     color: white;
 }
+.sec1Clr{
+    color: black;
+}
 .ul{
     list-style-type: none;
 }
@@ -29,6 +32,9 @@ body{
     color: white;
     font-size: xx-large;
     margin-left: 10px;
+}
+footer{
+    background-color: black;
 }
 .footclr{
     color: #7E8183;
