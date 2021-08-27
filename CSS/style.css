@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.head{
+    background-color: black;
+}
+.sec{
+    padding-top: 160px;
+    padding-bottom: 140px;
+    color: white;
+}
+.ul{
+    list-style-type: none;
+}
+.ul li a{
+  
+    text-decoration: none;
+    color: white;
+   
+}
+.ull a{
+    text-decoration: none;
+    color: #7E8183;
+    font-size: smaller;
+    margin-left: 13px;
+}
+.icon a{
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    margin-left: 10px;
+}
+.footclr{
+    color: #7E8183;
+    font-weight: 900;
+}
