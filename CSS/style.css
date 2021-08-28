@@ -48,13 +48,13 @@ footer{
     background-color: black;
 }
 .bgclr{
-    background-image: linear-gradient(to bottom right,#EC3F00,#ee293d);
+    background-image: linear-gradient(to bottom right,#ec3f00,#c42d3c);
 }
 .bgclr2{
-    background-image: linear-gradient(to bottom left,#EC3F00,#ee293d);
+    background-image: linear-gradient(to bottom left,#EC3F00,#c42d3c);
 }
 .bgclr3{
-    background-image: linear-gradient(to top left,#EC3F00,#ee293d);
+    background-image: linear-gradient(to top left,#EC3F00,#c42d3c);
 }
 .iconSize{
     color: #EC3C00;
