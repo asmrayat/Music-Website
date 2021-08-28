@@ -41,9 +41,18 @@ footer{
     font-weight: 900;
 }
 .iconhvr:hover{
-    color: #E04E5C;
+    color: #EC3C00;
 }
 .iconhvr2:hover{
     color: white;
     background-color: black;
+}
+.bgclr{
+    background-image: linear-gradient(to bottom right,#EC3F00,#ee293d);
+}
+.bgclr2{
+    background-image: linear-gradient(to bottom left,#EC3F00,#ee293d);
+}
+.bgclr3{
+    background-image: linear-gradient(to top left,#EC3F00,#ee293d);
 }
