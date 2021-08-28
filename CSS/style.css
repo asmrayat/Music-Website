@@ -40,3 +40,10 @@ footer{
     color: #7E8183;
     font-weight: 900;
 }
+.iconhvr:hover{
+    color: #E04E5C;
+}
+.iconhvr2:hover{
+    color: white;
+    background-color: black;
+}
